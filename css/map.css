@@ -1,5 +1,5 @@
 #map {
-    height: 590px;
+    height: 635px;
     width: 100%;
 }
 
@@ -113,14 +113,12 @@
 }
 
 .info {
-    font: 17px/19px Arial, Helvetica, sans-serif;
-    background: grey;
+    padding: 6px 8px;
+    font: 14px/16px Arial, Helvetica, sans-serif;
+    background: white;
     background: rgba(255,255,255,0.8);
     box-shadow: 0 0 15px rgba(0,0,0,0.2);
     border-radius: 5px;
-    position: absolute;
-    top: 150px;
-    right: 500px;
 }
 
 .info h4 {
